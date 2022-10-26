@@ -1,8 +1,8 @@
 # Caser_Model
 
-A tensorflow/keras implementation of the unified embedding model from Embedding-based Retrieval in Facebook Search (https://arxiv.org/pdf/1809.07426.pdf).
+Tensorflow/Keras implementation of sequential recommendation system using convolutionally enhanced item embeddings and triplet loss. (https://arxiv.org/pdf/1809.07426.pdf)
 
-Sequential recommendation system using convolutionally enhanced item embeddings and triplet loss.
+
 
 
 Data :<br/>
