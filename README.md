@@ -26,3 +26,12 @@ File Description :
 
 Usage :
 ----
+download file 
+```
+conda create --name caser_env
+conda activate revenue_model
+```
+find the folder directory in caser_env
+```
+pip install -r requirements.txt 
+```
