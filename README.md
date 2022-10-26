@@ -8,7 +8,7 @@ Sequential recommendation system using convolutionally enhanced item embeddings 
 Data :<br/>
 ----
 
-MovieLens 1M Dataset :
+MovieLens 1M Dataset : 
 https://grouplens.org/datasets/movielens/1m/
 <br/>
 for simplicity dataset located in my github repo :
@@ -16,7 +16,7 @@ https://raw.githubusercontent.com/malinphy/datasets/main/ml_1M/ratings.dat
 
 File Description :
 ----
-- data_prep.py :
+- data_prep.py : generation of negative samples and target values
 - HelperFunctions : Data preparation for model training
 - model.py : Caser model written with tensoflow/keras
 - train.py : training file
