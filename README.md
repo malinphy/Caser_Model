@@ -25,6 +25,7 @@ File Description :
 - requirements.txt : required packages and versions to run model
 
 Usage :
+if necessary download repo and create an virtual env using following commands 
 ----
 download file 
 ```
@@ -34,4 +35,25 @@ conda activate revenue_model
 find the folder directory in caser_env
 ```
 pip install -r requirements.txt 
+```
+run ***train.py*** file 
+<br/>
+for deployment purpose prediction file created seperately as ***caser_prediction.py***
+
+TODO :
+----
+original study investigated up to next 3 items. However, this implementation designed for 1 item. Designing will be developed according to original model.
+
+Citation:
+----
+```
+If you use this Caser in your paper, please cite the paper:
+
+@inproceedings{tang2018caser,
+  title={Personalized Top-N Sequential Recommendation via Convolutional Sequence Embedding},
+  author={Tang, Jiaxi and Wang, Ke},
+  booktitle={ACM International Conference on Web Search and Data Mining},
+  year={2018}
+}
+
 ```
