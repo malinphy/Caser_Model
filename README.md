@@ -17,7 +17,7 @@ https://raw.githubusercontent.com/malinphy/datasets/main/ml_1M/ratings.dat
 File Description :
 ----
 - data_prep.py : generation of negative samples and target values
-- HelperFunctions : Data preparation for model training
+- HelperFunctions.py : Data preparation for model training
 - model.py : Caser model written with tensoflow/keras
 - train.py : training file
 - caser_model_weights.h5 : model weights 
