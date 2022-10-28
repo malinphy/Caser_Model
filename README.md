@@ -23,6 +23,7 @@ File Description :
 - caser_model_weights.h5 : model weights 
 - eval.py : mean average precision MAP calculation
 - requirements.txt : required packages and versions to run model
+= caser_prediction.py : prediction file for deployment purpose
 
 Usage :
 if necessary download repo and create an virtual env using following commands 
