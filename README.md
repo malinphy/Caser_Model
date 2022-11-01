@@ -1,6 +1,12 @@
 # Caser_Model
 
-Tensorflow/Keras implementation of sequential recommendation system using convolutionally enhanced item embeddings and triplet loss. (https://arxiv.org/pdf/1809.07426.pdf)
+Overview :
+Tensorflow/Keras implementation of sequential recommendation system using convolutionally enhanced item embeddings and triplet loss. 
+
+For more information :
+https://arxiv.org/pdf/1809.07426.pdf
+
+
 
 
 
